@@ -1,0 +1,2 @@
+Participant Number	 First Name	 Middle Name 	 Last Name	 Birth Date 	 Todays Date 	 Gender 	 Directory Name 
+1	Tim		Conklin	01-Jan-2013	17-Sep-2013	Male	C:\Users\Tim\Documents\MATLAB\psych\experiments\exp1\COMP001 
